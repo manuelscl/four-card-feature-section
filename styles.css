@@ -26,6 +26,7 @@ body {
     display: grid;
     place-content: center;
     padding: 1.6rem;
+    background-color: var(--very-light-gray);
 }
 
 .feature-section {
